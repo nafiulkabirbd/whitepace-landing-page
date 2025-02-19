@@ -245,3 +245,45 @@
   padding-right: 200px;
 }
 /* extension style end */
+
+/* customise style start */
+.customise-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 140px 0px 140px 250px;
+}
+
+.cn-title {
+  color: #212529;
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -1.44px;
+}
+
+.cn-details {
+  color: #212529;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.btn-cn {
+  color: #fff;
+  background: #4f9cf9;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  padding: 20px 40px;
+  letter-spacing: -0.36px;
+  margin-top: 60px;
+}
+
+.cn-img {
+  width: 785px;
+  height: 441.56px;
+  padding-right: 200px;
+}
+/* customise style end */
