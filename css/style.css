@@ -287,3 +287,85 @@
   padding-right: 200px;
 }
 /* customise style end */
+
+/* pricing style start */
+.pricing-section {
+  padding: 140px;
+}
+
+.pricing-content {
+  margin-bottom: 60px;
+}
+
+.pricing-title {
+  color: #212529;
+  font-size: 72px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -1.44px;
+}
+
+.pricing-details {
+  color: #212529;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.package-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.pricing-container {
+  width: 384px;
+  background: #fff;
+  border: 1px solid #ffe492;
+  border-radius: 10px;
+  padding: 40px 44px;
+}
+
+.package-name {
+  color: #212529;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.package-price {
+  color: #212529;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: -0.72px;
+  margin-top: 25px;
+}
+
+.package-details {
+  color: #212529;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.36px;
+  margin-top: 25px;
+}
+
+.pricing-features {
+  display: flex;
+  gap: 10px;
+  margin-top: 28px;
+}
+
+.btn-yellow {
+  color: #212529;
+  background: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid #ffe492;
+  border-radius: 8px;
+  padding: 16px 40px;
+  letter-spacing: -0.32px;
+  margin-top: 25px;
+}
+
+/* pricing style end */
