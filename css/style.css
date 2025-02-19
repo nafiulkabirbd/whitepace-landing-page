@@ -124,3 +124,45 @@
   border-radius: 300px;
 }
 /* banner style end */
+
+/* project management style start */
+.pm-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 140px 0px 140px 250px;
+}
+
+.pm-title {
+  color: #212529;
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -1.44px;
+}
+
+.pm-details {
+  color: #212529;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.btn-pm {
+  color: #fff;
+  background: #4f9cf9;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  padding: 20px 40px;
+  margin-top: 60px;
+  letter-spacing: -0.36px;
+}
+
+.pm-img {
+  width: 785px;
+  height: 441.56px;
+  padding-right: 200px;
+}
+/* project management style end */
