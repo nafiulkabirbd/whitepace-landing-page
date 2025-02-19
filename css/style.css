@@ -166,3 +166,39 @@
   padding-right: 200px;
 }
 /* project management style end */
+
+/* work together style start */
+.wt-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 140px 0px 140px 250px;
+}
+
+.wt-title {
+  color: #212529;
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -1.44px;
+}
+
+.wt-details {
+  color: #212529;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.btn-wt {
+  color: #fff;
+  background: #4f9cf9;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  padding: 20px 40px;
+  letter-spacing: -0.36px;
+  margin-top: 60px;
+}
+/* work together style end */
