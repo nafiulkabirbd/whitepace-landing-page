@@ -441,3 +441,24 @@
   margin-top: 60px;
 }
 /* data style end */
+
+/* sponsors section start */
+.sponsors-container {
+  padding: 140px 200px 140px 250px;
+}
+
+.sponsors-title {
+  color: #212529;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -1.44px;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+/* sponsors section end */
