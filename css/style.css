@@ -442,7 +442,7 @@
 }
 /* data style end */
 
-/* sponsors section start */
+/* sponsors style start */
 .sponsors-container {
   padding: 140px 200px 140px 250px;
 }
@@ -461,4 +461,42 @@
   align-items: center;
   margin-top: 100px;
 }
-/* sponsors section end */
+/* sponsors style end */
+
+/* apps style start */
+.apps-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #043873;
+  padding: 140px 150px 140px 250px;
+}
+
+.apps-title {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -1.44px;
+}
+
+.apps-details {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.btn-apps {
+  color: #fff;
+  background: #4f9cf9;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  padding: 20px 40px;
+  letter-spacing: -0.36px;
+  margin-top: 60px;
+}
+/* apps style end */
