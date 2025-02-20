@@ -367,5 +367,42 @@
   letter-spacing: -0.32px;
   margin-top: 25px;
 }
-
 /* pricing style end */
+
+/* work style start */
+.work-container {
+  background: #043873;
+  padding: 140px 220px;
+}
+
+.work-title {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: -1.44px;
+}
+
+.work-details {
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.btn-work {
+  color: #fff;
+  background: #4f9cf9;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  padding: 20px 40px;
+  letter-spacing: -0.36px;
+  display: block;
+  margin: 0px auto;
+  margin-top: 60px;
+}
+/* work style end */
