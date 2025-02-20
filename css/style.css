@@ -406,3 +406,38 @@
   margin-top: 60px;
 }
 /* work style end */
+
+/* data style start */
+.data-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 140px 100px 140px 250px;
+}
+
+.data-title {
+  color: #212529;
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -1.44px;
+}
+
+.data-details {
+  color: #212529;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  margin-top: 24px;
+}
+
+.btn-data {
+  color: #fff;
+  background: #4f9cf9;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 20px 40px;
+  margin-top: 60px;
+}
+/* data style end */
